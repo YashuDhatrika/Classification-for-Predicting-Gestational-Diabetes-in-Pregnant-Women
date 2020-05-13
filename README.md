@@ -12,4 +12,4 @@ Key findings:
 2.  Prior history of gestational diabetes was also an important factor. People having prior gestational diabetes are probable to develop diabetes this time.
 
 3. The other differentiating factors were food intake (carbohydrate), hypertension, and physical activity
-Impact: This model predicts the patients would be affected by gestational diabetes prior to the 24 weeks period and then suggestions are made to the diet, physical activities and sleeping pattern. This algorithm could prevent up to ~60% of potential patients affected by gestational diabetes. As others were mostly due to genetic factors.
+
