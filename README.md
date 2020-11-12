@@ -5,7 +5,7 @@ Context: Gestational diabetes is a type of diabetes that is first seen in a preg
 Tools /Concepts: Python, Expectation–maximization algorithm and multiclass logistic regression. 
 Data: Captures the metrics like weight, height, physical activity, blood pressure, ethnicity, food intake (vitamins, calcium, carbohydrate.) and other biological attributes like RBC count, etc. Model Implementation:
 • Developed a baseline model (SVM, Logistic Regression, Random Forest) and a mixture of an expert model (probabilistic model) to predict gestational diabetes in pregnant women.
- • Improved accuracy from 72% to 93% by adopting the mixture of an expert model over other baseline models.
+
 
 Key findings:
 1.  Race and Ethnicity have been differentiating factor to identify if the women are probable to get gestational diabetes or not.
